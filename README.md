@@ -1,6 +1,6 @@
 # Pong Game
 
-A simple implementation of the classic Pong game using JavaScript, HTML, and CSS.
+A simple implementation of the classic Pong game using Python.
 
 ## Table of Contents
 
